@@ -1,8 +1,10 @@
 # publications
 
-Huang, L. M. & Sherman, J. W. (dissertation in press). Expectancy maintenance in context-based impression formation.
+Huang, L. M. & Sherman, J. W. (dissertation research). Expectancy maintenance in context-based impression formation.
 
-Akin, D. & Huang, L. M. (in press). Perceptions of college students with disabilities. Journal of Postsecondary Education and Disability.
+Hutchings, R., Calanchini, J., Huang, L., Rees, H., Rivers, A., Roth, J., & Sherman, J. (in press). Retrieval cues fail to influence contextualized evaluations. Cognition and Emotion.
+
+Akin, D. & Huang, L. M. (2019). Perceptions of college students with disabilities. Journal of Postsecondary Education and Disability, 32(1), 21-33. 
 
 Huang, L. M. & Sherman, J. W. (2018). Attentional processes in social perception. Advances in Experimental Social Psychology, vol 38.
 
